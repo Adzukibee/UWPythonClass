@@ -1,0 +1,5 @@
+1, Mop floors
+3, Do laundry
+2, Go rock climbing
+1, Make berry compote for cheesecake
+1, Make snack
